@@ -6,12 +6,12 @@ public final class EventovyKalendar extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        System.out.println("Kalendar se nacita...");
 
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        System.out.println("Kalendar se vypina...");
     }
 }
