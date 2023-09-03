@@ -1,0 +1,4 @@
+name: EventovyKalendar
+version: '${project.version}'
+main: org.kleunie.eventovykalendar.EventovyKalendar
+api-version: '1.20'
